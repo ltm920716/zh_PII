@@ -1,0 +1,9 @@
+presidio_analyzer==2.2.33
+presidio_anonymizer==2.2.33
+# presidio_image_redactor
+loguru
+fastapi
+uvicorn
+python-dotenv
+tiktoken
+math
